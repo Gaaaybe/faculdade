@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\bin\Debug\net7.0\AutoEmuYuzuAndCitra.exe
+c:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\bin\Debug\net7.0\AutoEmuYuzuAndCitra.deps.json
+c:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\bin\Debug\net7.0\AutoEmuYuzuAndCitra.runtimeconfig.json
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\bin\Debug\net7.0\AutoEmuYuzuAndCitra.dll
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\bin\Debug\net7.0\AutoEmuYuzuAndCitra.pdb
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.AssemblyInfo.cs
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.dll
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\refint\AutoEmuYuzuAndCitra.dll
+C:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.pdb
+c:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\AutoEmuYuzuAndCitra.genruntimeconfig.cache
+c:\Users\Gabriel\Transmissão no Google Drive\Meu Drive\Drive\Codigos\C#\AutoEmuYuzuAndCitra\obj\Debug\net7.0\ref\AutoEmuYuzuAndCitra.dll
